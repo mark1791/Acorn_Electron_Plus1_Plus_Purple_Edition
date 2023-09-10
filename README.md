@@ -1,7 +1,9 @@
-# Acorn_Electron_Plus1_Plus_Purple_Edition
+# Acorn Electron Plus1 Plus Purple Edition
 Acorn Electron Plus 1 PCB and 3D CAD for the Plus1+ Purple edition which adds MMS Header and Atari Joystick Port
 
-Final 6 Piece Plus 1+ Purple Edition in Flouresant Orange
+Design was evoled from my previous version to re-imagine the original Plus 1, to redraw the Acorn Schematic and the redrawn schematic by P.H Harvey 
+
+## Final 6 Piece Plus 1+ Purple Edition in Flouresant Orange
 ![Screenshot](Images/IMG_0603.jpg)
 Hatch Off
 ![Screenshot](Images/IMG_0604.jpg)
@@ -13,19 +15,19 @@ Showing Left hand side with additional Joystick Interface and Header for a SD Ca
 ![Screenshot](Images/IMG_0607.jpg)
 CAD Design in FreeCAD, STL/STEP files provided as a 2 Piece Upper/Lower and a 6 Piece version that can be printed on a 3D printer, mine being a AnyCubic Vyper with bed size of 245 x 245 mm
 
-# Two Piece Design Upper/Lower
+## Two Piece Design Upper/Lower
 ![Screenshot](Images/CAD_Plus1_single_Upper.JPG)
 ![Screenshot](Images/CAD_Plus1_Single_Electron.JPG)
 ![Screenshot](Images/CAD_Plus1_Single_Lower.JPG)
 
-# 6 Piece Design to fit Anycubic Vyper 245mm x 245mm
+## 6 Piece Design to fit Anycubic Vyper 245mm x 245mm
 
 ![Screenshot](Images/CAD_Plus1_Plus_Main_001.JPG)
 ![Screenshot](Images/CAD_Plus1_Plus_Main_002.JPG)
 ![Screenshot](Images/CAD_Plus1_Plus_Main_003.JPG)
 ![Screenshot](Images/CAD_Plus1_Plus_Main_004.JPG)
 
-# 6 Piece Design final printed version
+## 6 Piece Design final printed version
 
 Exploded view of the 3 Main Pieces with SD Card SPI
 ![Screenshot](Images/Explo1.jpg
@@ -48,7 +50,7 @@ With AP6 fitted
 Showing AP6 fitted with additional sockets to fit as putting sockets on board doesn't allow direct fitting as too tight
 ![Screenshot](Images/Explo10.jpg)
 
-# Picture of the Slogger Joystic Interface card used to reverse engineer the Joystick layout
+## Picture of the Slogger Joystic Interface card used to reverse engineer the Joystick layout
 
 ![Screenshot](Images/Joystick1.jpg)
 ![Screenshot](Images/Joystick2.jpg)

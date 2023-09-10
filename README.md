@@ -1,7 +1,11 @@
 # Acorn Electron Plus1 Plus Purple Edition
 Acorn Electron Plus 1 PCB and 3D CAD for the Plus1+ Purple edition which adds MMS Header and Atari Joystick Port
 
-Design was evoled from my previous version to re-imagine the original Plus 1, to redraw the Acorn Schematic and the redrawn schematic by P.H Harvey. This can be found here [Acorn Plus One Reimagine](https://github.com/mark1791/Acorn_Plus_1_Reimagine)  This version has added a Digital Joystick port based off of the reversed engineered [Slogger Joystick card](https://github.com/mark1791/Acorn_Electron_Plus1_Plus_Purple_Edition/blob/main/Images/Slogger-PCB-Reverse-Engineer-Layout-mark1791-150823.pdf)) I took pictures front and back then mergerd one over the top and re-drew it in KiCAD.
+Design was evoled from my previous version to re-imagine the original Plus 1, to redraw the Acorn Schematic and the redrawn schematic by P.H Harvey. This can be found here [Acorn Plus One Reimagine](https://github.com/mark1791/Acorn_Plus_1_Reimagine)  This version has added a Digital Joystick port based off of the reversed engineered [Slogger Joystick card](https://github.com/mark1791/Acorn_Electron_Plus1_Plus_Purple_Edition/blob/main/Images/Slogger-PCB-Reverse-Engineer-Layout-mark1791-150823.pdf) I took pictures front and back then mergerd one over the top and re-drew it in KiCAD
+
+The final schematic can be found here which includes the [Joystick port and MMS Header](https://github.com/mark1791/Acorn_Electron_Plus1_Plus_Purple_Edition/blob/main/Documents/001-Acorn-Electron-Plus1-V2-Joystick-schematic-mark1791-060923.pdf).
+
+The PCB was printed in Purple Gold as why not, as looked nice, down side was i hadn't connected the right address lines up to the Joystick port, hence the bodge wire and also the picture i used as reference in the attached pdf the +5V and GND was wrong and wrong way round, latest KiCAD file attached has all these fixes in, so next batch of PCB's which will be my last for this project should be good.
 
 ## Final 6 Piece Plus 1+ Purple Edition in Flouresant Orange
 ![Screenshot](Images/IMG_0603.jpg)

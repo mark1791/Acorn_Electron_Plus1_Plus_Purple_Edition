@@ -7,6 +7,10 @@ The final schematic can be found here which includes the [Joystick port and MMS 
 
 The PCB was printed in Purple Gold as why not, as looked nice, down side was i hadn't connected the right address lines up to the Joystick port, hence the bodge wire and also the picture i used as reference in the attached pdf the +5V and GND was wrong and wrong way round, latest KiCAD file attached has all these fixes in, so next batch of PCB's which will be my last for this project should be good.
 
+The AP6 does fit onto the PCB, downside if you fit sockets for everything, the lid does not fit as insufficient clearance, should fit when chips soldered directly to PCB, also may need to reduce the ribs i added to help stiffen up the top when printed at the front as clearances are tight with the AP6, also there are no holes to bolt the AP6 directly to the PCB to support it. Put the headers for the joystick port directly underneath the holes for the AP6
+
+One thing i would like to investigate if possible is a combined Plus 1 Rom with MMS Rom save having to use the ABR to loaded the MMS Rom data
+
 ## Final 6 Piece Plus 1+ Purple Edition in Flouresant Orange
 ![Screenshot](Images/IMG_0603.jpg)
 Hatch Off

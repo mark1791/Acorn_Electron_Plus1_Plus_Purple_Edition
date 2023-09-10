@@ -55,7 +55,7 @@ Underneath shot, yes i know the vents need the brim removing, on the final print
 ![Screenshot](Images/Explo8.jpg)
 With AP6 fitted
 ![Screenshot](Images/Explo9.jpg)
-Showing AP6 fitted with additional sockets to fit as putting sockets on board doesn't allow direct fitting as too tight, not the key locator on the connector to the back of the PCB, used a lolly pop stick cut down a bit and Super glued in, works a treat, pulling out the two connectors was quite straight forward with long nose pliers
+Showing AP6 fitted with additional sockets to fit as putting sockets on board doesn't allow direct fitting as too tight, note the key locator on the connector to the back of the PCB, used a lolly pop stick cut down a bit and Super glued in, works a treat, pulling out the two connectors was quite straight forward with long nose pliers
 ![Screenshot](Images/Explo10.jpg)
 
 ## Picture of the Slogger Joystic Interface card used to reverse engineer the Joystick layout

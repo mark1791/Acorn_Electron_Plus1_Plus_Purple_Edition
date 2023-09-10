@@ -1,7 +1,7 @@
 # Acorn Electron Plus1 Plus Purple Edition
 Acorn Electron Plus 1 PCB and 3D CAD for the Plus1+ Purple edition which adds MMS Header and Atari Joystick Port
 
-Design was evoled from my previous version to re-imagine the original Plus 1, to redraw the Acorn Schematic and the redrawn schematic by P.H Harvey 
+Design was evoled from my previous version to re-imagine the original Plus 1, to redraw the Acorn Schematic and the redrawn schematic by P.H Harvey. This can be found here [Acorn Plus One Reimagine](https://github.com/mark1791/Acorn_Plus_1_Reimagine)  
 
 ## Final 6 Piece Plus 1+ Purple Edition in Flouresant Orange
 ![Screenshot](Images/IMG_0603.jpg)

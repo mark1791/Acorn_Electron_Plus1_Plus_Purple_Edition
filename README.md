@@ -49,9 +49,9 @@ Bog standard microSD Card SPI generic off of Ebay
 ![Screenshot](Images/Explo5.jpg)
 Top shot with no cover
 ![Screenshot](Images/Explo6.jpg)
-Top Shot
+Top Shot with Cover which allows access to the SD Card
 ![Screenshot](Images/Explo7.jpg)
-Underneath shot
+Underneath shot, yes i know the vents need the brim removing, on the final printed version i will.
 ![Screenshot](Images/Explo8.jpg)
 With AP6 fitted
 ![Screenshot](Images/Explo9.jpg)

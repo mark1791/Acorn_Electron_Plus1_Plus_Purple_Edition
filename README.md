@@ -38,7 +38,7 @@ CAD Design in FreeCAD, STL/STEP files provided as a 2 Piece Upper/Lower and a 6 
 ## 6 Piece Design final printed version
 
 Exploded view of the 3 Main Pieces with SD Card SPI
-![Screenshot](Images/Explo1.jpg
+![Screenshot](Images/Explo1.jpg)
 Picture of Lower PCB in Lower Case
 ![Screenshot](Images/Explo2.jpg)
 Top shot of underneath of Top cover showing M3 Bolts to attach the sides and M4 Brass Inerts melted into to bolt Top to Bottom
